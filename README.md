@@ -1,5 +1,6 @@
 # powershell_adds_deployment
 Easy and fast installation of AD DS using Powershell
+
 Script launch order:
 1) Install-ADDS.ps1
 2) Promote-DC01.ps1
